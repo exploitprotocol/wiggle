@@ -2,10 +2,10 @@ Name: Pravendra Singh
 
 paginate: 3
 paginate_path: "/archive/:num/"
-
+url: https://exploitprotocol.github.io/wiggle
 author:
   name:		Pravendra Singh
-  url:		https://pravj.github.io
+  url:		https://exploitprotocol.github.io/wiggle
   twitter:	https://twitter.com/hackpravj
   github:	https://github.com/pravj
 
